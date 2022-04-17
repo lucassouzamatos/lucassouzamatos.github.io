@@ -1,0 +1,14 @@
+{
+  "name": "lucassouzamatos.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucassouzamatos/lucassouzamatos.github.io.git",
+  "author": "lucassouzamatos <lucas.ssouza.mmatos@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "scripts": {
+    "build": "rescript"
+  }
+}
