@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'GentiumBookBasic';
+  src: url('GentiumBookBasic.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: GentiumBookBasic;
+  font-size: 18px;
+  padding: 15px;
+}
+
+.home-section-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.home-table-list td {
+  padding-left: 15px;
+}
+
